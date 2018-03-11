@@ -4,7 +4,10 @@
   border: 0;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand{
+	
+}
+.navbar-brand h1 { 
   font-family: 'Arial', serif;
   color: #2222ff;
   font-size: 1.5em;
@@ -21,7 +24,7 @@
   text-align: center;
   font-weight: bold;
 }
-#collapsable-nav { /* Collapsed nav menu text */
+#collapsable-nav { 
     background-color: #229922;
   }
 
