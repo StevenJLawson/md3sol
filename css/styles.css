@@ -1,0 +1,38 @@
+#header-nav {
+  background-color: #88FF88;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Arial', serif;
+  color: #2222ff;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 4px 4px 4px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list p {
+  color: #880000;
+  text-align: center;
+  font-weight: bold;
+}
+#collapsable-nav { /* Collapsed nav menu text */
+    background-color: #229922;
+  }
+
+.menu-title {
+  font-family: 'Arial', serif;
+  color: #00ff00;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #222;
+  margin-top: 0;
+  margin-bottom: 20px;
+  line-height: .8;
+}
